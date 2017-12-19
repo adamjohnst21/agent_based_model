@@ -32,4 +32,4 @@ print ('hello world')
 
 
 
-[[[docs\linkedin.png|width=50px]]](https://www.linkedin.com/in/adamjohnstonuk/)
+[linkedinLogo](\docs\linkedin.png)
