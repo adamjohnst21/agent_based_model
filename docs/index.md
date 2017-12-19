@@ -32,4 +32,4 @@ print ('hello world')
 
 
 
-[[[http://psiint.com/wp-content/uploads/2017/03/linkedin-logo-copy.png|width=50px]]](https://www.linkedin.com/in/adamjohnstonuk/)
+[[[docs\linkedin.png|width=50px]]](https://www.linkedin.com/in/adamjohnstonuk/)
