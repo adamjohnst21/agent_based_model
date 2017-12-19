@@ -11,7 +11,7 @@ title: ABM
 
 # Agent Based Model
 
-### Download the final model [here](https://adamjohnst21.github.io/agent_based_model/model9.py)
+### Download the final model [here](agent_based_model/model9.py)
 
 
 Blah blah blah, agent based model intro 
