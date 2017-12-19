@@ -32,4 +32,4 @@ print ('hello world')
 
 
 
-![[[https://github.com/adamjohnst21/agent_based_model/blob/master/docs/linkedin.png?raw=true|width=50px]]](https://www.linkedin.com/in/adamjohnstonuk/)
+![[https://github.com/adamjohnst21/agent_based_model/blob/master/docs/linkedin.png?raw=true]](https://www.linkedin.com/in/adamjohnstonuk/)
