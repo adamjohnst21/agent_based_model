@@ -23,6 +23,8 @@ Adjoining framework | [Framework]()
 
 Blah blah blah, agent based model intro 
 
+**input image of the model**
+
 ### Mention some sort of code
 ```python
 #test the code block
