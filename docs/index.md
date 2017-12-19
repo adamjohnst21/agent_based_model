@@ -27,8 +27,11 @@ Blah blah blah, agent based model intro
 
 ### Mention some sort of code
 ```python
-#test the code block
-print ('hello world')
+
+  File "C:/Users/University/Documents/Programming/adamjohnst21.github.io/agent_based_model/model9.py", line 96, in <module>
+    canvas = matplotlib.backends.backend_tkagg.FigureCanvasTkAgg(fig, master=root)
+
+AttributeError: module 'matplotlib.backends' has no attribute 'backend_tkagg'
 ``` 
 \
 \
