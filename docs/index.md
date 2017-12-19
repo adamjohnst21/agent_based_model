@@ -23,8 +23,13 @@ Adjoining framework | [Framework]()
 
 Blah blah blah, agent based model intro 
 
-###Mention some sort of code
+### Mention some sort of code
 ```python
 #test the code block
 print ('hello world')
 ``` 
+
+
+
+
+[[[http://psiint.com/wp-content/uploads/2017/03/linkedin-logo-copy.png|width=50px]]](https://www.linkedin.com/in/adamjohnstonuk/)
