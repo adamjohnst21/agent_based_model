@@ -32,4 +32,4 @@ print ('hello world')
 
 
 
-[linkedinLogo](\docs\linkedin.png)
+![linkedinLogo](\docs\linkedin.png)
