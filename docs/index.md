@@ -30,6 +30,6 @@ print ('hello world')
 ``` 
 
 
+https://github.com/adamjohnst21/agent_based_model/blob/master/docs/git.png?raw=true
 
-
-[![linkedinLogo](https://github.com/adamjohnst21/agent_based_model/blob/master/docs/l-logo.jpg?raw=true)](https://www.linkedin.com/in/adamjohnstonuk/)
+[![linkedinLogo](https://github.com/adamjohnst21/agent_based_model/blob/master/docs/linkedin.png?raw=true)](https://www.linkedin.com/in/adamjohnstonuk/) [![TwitterLogo](https://github.com/adamjohnst21/agent_based_model/blob/master/docs/twitter.jpg?raw=true)](https://www.linkedin.com/in/adamjohnstonuk/) [![GitLogo](https://github.com/adamjohnst21/agent_based_model/blob/master/docs/git.png?raw=true)](https://www.linkedin.com/in/adamjohnstonuk/)
