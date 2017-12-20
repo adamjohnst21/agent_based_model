@@ -117,6 +117,7 @@ def update (frame_number):
     #set the plot size and add the environmental data in the background
     matplotlib.pyplot.xlim(0, 99)
     matplotlib.pyplot.ylim(0, 99)
+    matplotlib.pyplot.title('Agent Based Model')
     matplotlib.pyplot.imshow(environment)
    
     
