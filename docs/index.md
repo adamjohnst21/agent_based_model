@@ -13,7 +13,7 @@ title: ABM
  
  
 ### Scripts:
-Output|Link
+Output | Link
 Final Model | [ABM](https://github.com/adamjohnst21/agent_based_model/raw/master/finalModel.py)
 Adjoining framework | [Framework](https://github.com/adamjohnst21/agent_based_model/raw/master/agentframework.py)
  
@@ -23,7 +23,11 @@ Adjoining framework | [Framework](https://github.com/adamjohnst21/agent_based_mo
 This agent based model (ABM) creates a user defined number of agents which are able to move randomly. As they move, they are able to interact with their environment. This environment is a DEM, accessed from a CSV file. The agents consume 10% of the elevation at each point as they move, which accumulates in thier store. Agents interact with each other by sharing their store with other agents within a user defined radius (neighbourhood). Once an agent reaches a user defined maximum store value, the model is complete and stops running. 
 
 The model is initiated and displayed in a GUI. The Model is animated, with each frame representing one iteration of movement and interaction of the set of agents. Once complete, the model parameters and results are added to a ABM_log.txt file, so a user can track and compare past runs of the program. 
- 
+
+First Header | Second Header
+------------ | -------------
+Content cell 1 | Content cell 2
+Content column 1 | Content column 2
  
 ### Example final model
  
