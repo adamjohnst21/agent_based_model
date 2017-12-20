@@ -44,9 +44,4 @@ matplotlib.use('TkAgg')
 \
 \
 \
-\
-
-
-
-
 [![linkedinLogo](https://github.com/adamjohnst21/agent_based_model/blob/master/docs/linkedin.png?raw=true)](https://www.linkedin.com/in/adamjohnstonuk/) [![TwitterLogo](https://github.com/adamjohnst21/agent_based_model/blob/master/docs/twitter.jpg?raw=true)](https://twitter.com/adamjohnst21) [![GitLogo](https://github.com/adamjohnst21/agent_based_model/blob/master/docs/git.png?raw=true)](https://github.com/adamjohnst21)
