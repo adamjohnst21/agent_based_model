@@ -26,10 +26,7 @@ This agent based model (ABM) creates a user defined number of agents which are a
 
 The model is initiated and displayed in a GUI. The Model is animated, with each frame representing one iteration of movement and interaction of the set of agents. Once complete, the model parameters and results are added to a ABM_log.txt file, so a user can track and compare past runs of the program. 
 
-First Header | Second Header
------------- | -------------
-Content cell 1 | Content cell 2
-Content column 1 | Content column 2
+
  
 ### Example final model
  
