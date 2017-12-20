@@ -28,7 +28,7 @@ The model is initiated and displayed in a GUI. The Model is animated, with each 
 \
 ### Example final model
 \
-![model]()
+![model](https://github.com/adamjohnst21/agent_based_model/blob/master/docs/fModel.PNG?raw=true)
 *ABM with 10 agents and a maximum store of 10,000*
 \
 \
